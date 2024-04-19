@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 28.32192983267091,
+    "en_fr": 47.966192520770974,
+    "en_tl": 68.96834674991828,
+    "en_nl": 61.723608535885006
+  },
+  "test_match": {
+    "en_en_3": 28.32192983267091,
+    "en_tl_3": 68.96834674991828,
+    "en_nl_3": 61.723608535885006
+  },
+  "test_generate": {
+    "english_1_gram": "Ixa  iahml bT/ 't",
+    "english_2_gram": "I amewns @zakes w mu ado",
+    "english_3_gram": "I ampoing fighttps://t.c",
+    "english_4_gram": "I Love. Hey thouslimselves",
+    "spanish_2_gram": "Soye vis @Loma tacai",
+    "spanish_3_gram": "Soy fus",
+    "french_2_gram": "Je suist'e\"NENEn01BAMane",
+    "french_3_gram": "Je suis pasBards me..Il ent"
+  }
+}
